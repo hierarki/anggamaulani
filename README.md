@@ -8,7 +8,3 @@
   <a href= https://github.com/anggamaulani?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
   
 </p>
-
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=zenixas.zenixas">
-</p>
