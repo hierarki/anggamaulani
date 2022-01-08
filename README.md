@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center"> Hi, I'm angga1337</h1>
 
-<!--
-**anggamaulani/anggamaulani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">I'm currently learning python</h4>
 
-Here are some ideas to get you started:
+<h2 align="center"> Language: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href= https://github.com/anggamaulani?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+  
+</p>
+
+<p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=zenixas.zenixas">
+</p>
