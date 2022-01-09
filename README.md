@@ -8,4 +8,4 @@
   <a href= https://github.com/anggamaulani?tab=repositories&q=&type=&language=python&sort= ><img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a>
 </p>
 
-<h2 align="center"> Discord: <img src="https://discord.c99.nl/widget/theme-1/647262308342693888.png"></h2>
+<h2 align="center"> Discord: <br><img src="https://discord.c99.nl/widget/theme-1/647262308342693888.png"></h2>
