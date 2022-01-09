@@ -7,4 +7,3 @@
 <p align="center">
   <a href= https://github.com/anggamaulani?tab=repositories&q=&type=&language=python&sort= ><img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a>
 </p>
-<img align="center" src="https://discord.c99.nl/widget/theme-1/647262308342693888.png"/>
