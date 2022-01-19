@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href= https://github.com/anggamaulani?tab=repositories&q=&type=&language=python&sort=><img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-  <a href= https://github.com/anggamaulani?tab=repositories&q=&type=&language=lua&sort=><img width ='42px' src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png'></a>
 </p>
 
 
