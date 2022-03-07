@@ -5,4 +5,4 @@
 </p>
 
 
-<h2 align="center"> Discord: <br><br><img src="https://discord.c99.nl/widget/theme-1/647262308342693888.png"></h2>
+<h2 align="center"><br><br><img src="https://discord.c99.nl/widget/theme-1/647262308342693888.png"></h2>
