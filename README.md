@@ -1,8 +1,15 @@
-<h2 align="center"> Language: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+#### Platform&Tools
 
-<p align="center">
-  <a href= https://github.com/anggamaulani?tab=repositories&q=&type=&language=python&sort=><img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-</p>
+![](https://img.shields.io/badge/Python-3776AB?style=flat
+-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D3?style=flat-square&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/asuna%20%E2%9D%A4-FF0000?style=flat-square)
+<img src="https://c.tenor.com/Fz3fwf0ETCoAAAAC/asuna-sao.gif" width="250" height="150" align="left">
+&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;
+___
 
+learning cpp...
 
-<h2 align="center"><br><br><img src="https://discord.c99.nl/widget/theme-1/647262308342693888.png"></h2>
