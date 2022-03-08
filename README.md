@@ -7,5 +7,4 @@
 <img src="https://c.tenor.com/Fz3fwf0ETCoAAAAC/asuna-sao.gif" width="350" height="200" align="left">
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;
 ____
-<details>
 learning cpp...
