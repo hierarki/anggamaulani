@@ -1,7 +1,4 @@
-#### Platform&Tools
-
-![](https://img.shields.io/badge/Python-3776AB?style=flat
--square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D3?style=flat-square&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
