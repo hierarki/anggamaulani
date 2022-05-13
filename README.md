@@ -3,4 +3,4 @@
 ![](https://img.shields.io/badge/Windows-0078D3?style=flat-square&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Akeno%20&%20Asuna%20❤-FF0000?style=flat-square)
+![](https://img.shields.io/badge/Asuna%20❤-FF0000?style=flat-square)
