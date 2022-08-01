@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Asuna%20❤-FF0000?style=flat-square)
 ```css
-root@angga1337~# lolifetch
+root@angga1337/home/angga1337/~# lolifetch
 
 ⡆⣐⢕⢕⢕⢕⢕⢕⢕⢕⠅⢗⢕⢕⢕⢕⢕⢕⢕⠕⠕⢕⢕⢕⢕⢕⢕⢕⢕⢕  angga1337@DESKTOP-ESCIVE3
 ⢐⢕⢕⢕⢕⢕⣕⢕⢕⠕⠁⢕⢕⢕⢕⢕⢕⢕⢕⠅⡄⢕⢕⢕⢕⢕⢕⢕⢕⢕  --------------------
